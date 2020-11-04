@@ -1,5 +1,4 @@
 package edu.ucsd.cs110.tests;
-import static org.junit.jupiter.api.Assertions.*;
 
 import edu.ucsd.cs110.temperature.Fahrenheit;
 import edu.ucsd.cs110.temperature.Temperature;
